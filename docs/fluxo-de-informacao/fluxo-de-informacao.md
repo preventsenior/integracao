@@ -14,12 +14,12 @@ A Figura 1 apresenta um modelo para o processo de negócio `Realizar Exames`, ti
 
 Figura 1 – Fluxo de Informação do processo `Realizar Exames`
 {: .text-center .fs-2 .text-grey-dk-000 .mb-0 }
-![Figura 1 – Fluxo de Informação do processo "Realizar Exames"](/assets/images/docs/fluxo-de-informacao_figura1.png)
+![Figura 1 – Fluxo de Informação do processo "Realizar Exames"](/integracao/assets/images/docs/fluxo-de-informacao_figura1.png)
 {: .mt-0 }
 
 Adicionalmente, haverá troca de informação no processo de negócio abstrato `Atender Paciente`, conforme ilustrado na Figura 2.
 
 Figura 2 – Fluxo de informação do processo `Atender Paciente`
 {: .text-center .fs-2 .text-grey-dk-000 .mb-0 }
-![Figura 1 – Fluxo de Informação do processo "Realizar Exames"](/assets/images/docs/fluxo-de-informacao_figura2.png)
+![Figura 1 – Fluxo de Informação do processo "Realizar Exames"](/integracao/assets/images/docs/fluxo-de-informacao_figura2.png)
 {: .mt-0 }
