@@ -20,13 +20,9 @@
 
 title: Integração Prevent Senior
 description: Integração Prevent Senior
-baseurl: "/integracao" # the subpath of your site, e.g. /blog
-url: "https://preventsenior.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: "just-the-docs"
-plugins:
-  - jekyll-feed
+remote_theme: pmarsceill/just-the-docs
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
